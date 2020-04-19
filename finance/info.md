@@ -1,9 +1,9 @@
 [TOC]
 ## 原油
 ### 信息
-[crude_oil_price]:/picture/crude_oil/price_2015.jpg
-[crude_oil_compare]:/picture/crude_oil/compare.jpg
-[crude_oil_occupy]:/picture/crude_oil/market_share.jpeg
+[crude_oil_price]:/finance/picture/crude/price_2015.jpg
+[crude_oil_compare]:/finance/picture/crude/compare.jpg
+[crude_oil_occupy]:/finance/picture/crude/market_share.jpeg
 
 1. 各国生产一桶油的成本
     - 数据来源: UCube by Rystad Energy; Interactive published Nov. 23, 2015

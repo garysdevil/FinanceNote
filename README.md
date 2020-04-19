@@ -8,9 +8,9 @@
 4. 构建个人投资策略
     - [直接跳转到相关页面](/finance/invest.md)
 5. 收集展示每个人的投资策略
-    - /essay_personal/[**your_nickname**].md
+    - /personal/[**your_nickname**].md
 6. 投资投机文章
-    - /essay_news/
+    - /essay/
 ### 发展
 #### 希望各位热心人士可以提供相关帮助与建议
 #### /essay_personal/个人的昵称 在此目录下大家可以放自己的文章
