@@ -3,11 +3,14 @@
     - [直接跳转到相关页面](/finance/market.md)
 2. 收集金融产品重要性信息
     - [直接跳转到相关页面](/finance/info.md)
-3. 构建个人投资策略
+3. 构建投资投机指导方针
     - [直接跳转到相关页面](/finance/strategy.md)
-4. 收集展示每个人的投资总结
-    - /essay_personal/[**your_nickname**]
-
+4. 构建个人投资策略
+    - [直接跳转到相关页面](/finance/invest.md)
+5. 收集展示每个人的投资策略
+    - /essay_personal/[**your_nickname**].md
+6. 投资投机文章
+    - /essay_news/
 ### 发展
 #### 希望各位热心人士可以提供相关帮助与建议
 #### /essay_personal/个人的昵称 在此目录下大家可以放自己的文章
