@@ -1,8 +1,9 @@
+# 信息一
 1. 官方网址
-官网 https://filecoin.io
-git仓库 https://github.com/filecoin-project
-文档 https://docs.filecoin.io/
-区块链游览器 https://filscout.io
+    1. 官网 https://filecoin.io
+    2. git仓库 https://github.com/filecoin-project
+    3. 文档 https://docs.filecoin.io/
+    4. 区块链游览器 https://filscout.io
 2. ICO
 2017 公募2.57亿美元，私募约5200万美元
 
@@ -16,7 +17,7 @@ git仓库 https://github.com/filecoin-project
 15% 3亿枚  给协议实验室：用于研究开发、部署维护、业务开发、营销等。方式：6年线性释放。
 70% 14亿枚 奖励给矿工：即IPFS矿工可挖取的FIL数量为14亿枚。此70%用于提供数据存储服务、维护区块链等。
 
-
+## 信息二
 - 经济模型
 https://www.qianba.com/news/p-416794.html
 
