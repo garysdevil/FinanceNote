@@ -31,7 +31,4 @@ https://www.feixiaohao.com/
 7. 技术情况 
 
 ## 合约计划
-### 20201022 对于bch的硬分叉可能性-计划做空bch 
-1. https://baijiahao.baidu.com/s?id=1616571147026277896&wfr=spider&for=pc
-2. https://announcement.coinex.com/hc/zh-cn/articles/360050054871-CoinEx%E5%85%B3%E4%BA%8E%E5%BA%94%E5%AF%B9BCH%E6%BD%9C%E5%9C%A8%E5%88%86%E5%8F%89%E5%B9%B6%E4%B8%8A%E7%BA%BF%E5%88%86%E5%8F%89%E5%B8%81%E6%9C%9F%E8%B4%A7%E7%9A%84%E5%85%AC%E5%91%8A
-3. https://www.hellobtc.com/news/202010/5747.html
+
