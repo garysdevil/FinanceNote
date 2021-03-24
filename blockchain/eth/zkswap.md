@@ -14,3 +14,9 @@ fork https://github.com/matter-labs/zksync + AMM
 2. zksync
 
 3. AMM
+
+### 信息
+1. 发行量 10亿枚
+2. 私募价格 0.025 USDT/ZKS
+3. 初始流通价格 0.075 USDT/ZKS
+4. 首次进入交易所开盘价格 0.8 USDT/ZKS
