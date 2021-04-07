@@ -18,8 +18,10 @@ fork 1.2k, contributor 87
 https://github.com/EOSIO/eos
 fork 3.6k, contributor 213
 7. ada
-https://github.com/input-output-hk/cardano-sl  废弃
-fork 582, contributor 99
+    - https://github.com/input-output-hk/cardano-sl  废弃
+    - fork 582, contributor 99
+    - https://github.com/input-output-hk/cardano-node 新的
+    - fork 210, contributor 72
 8. litecoin
 https://github.com/litecoin-project/litecoin
 fork 27.1k, ????
@@ -33,3 +35,17 @@ https://github.com/Bitcoin-ABC/bitcoin-abc
 11. bsv
 https://github.com/bitcoin-sv/bitcoin-sv
 fork 220, contributor 460
+
+## 2021年3月
+12. theta
+    - https://github.com/thetatoken/theta-protocol-ledger
+    - fork 37, contributor 7
+    - 流媒体
+
+13. ont
+    - https://github.com/ontio/ontology
+    - fork 745, contributor 55
+
+14. zen
+    - https://github.com/HorizenOfficial/zen
+    - fork 72, , contributor 388
