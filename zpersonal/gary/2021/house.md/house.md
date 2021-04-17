@@ -31,11 +31,6 @@
         - 开银行流水
         - 单位开工资证明
 
-作者：做成都房产界网红
-链接：https://www.zhihu.com/question/48359444/answer/110648891
-来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
 ## 新房必备
 1. 大床 Big bed
 2. 冰箱 Efficient refrigerator
