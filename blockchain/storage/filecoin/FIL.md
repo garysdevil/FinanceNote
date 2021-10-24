@@ -4,6 +4,7 @@
     2. git仓库 https://github.com/filecoin-project
     3. 文档 https://docs.filecoin.io/
     4. 区块链游览器 https://filscout.io
+    4. Slack https://app.slack.com/client/TEHTVS1L6/slack-connect
 
 2. ICO
 私募约5200万美元
