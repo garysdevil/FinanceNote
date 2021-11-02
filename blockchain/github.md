@@ -87,6 +87,13 @@
     - 去中心化智能合约平台；由三条区块链组成，分别是X链、C链与P链
     - https://github.com/ava-labs/avalanchego
 
+6. Edgeware/EDG
+    - 基于Substrate的WASM智能合约平台，也是波卡的首个智能合约项目
+    - https://github.com/hicommonwealth/edgeware-node
+
+6. Glimmer/GLMR
+    - 智能合约平台
+
 ## 去中心化存储
 1. filecoin/FIL
     - 去中心化存储平台
@@ -101,7 +108,7 @@
     - - 去中心化存储平台；以太坊ERC20代币
     - https://github.com/crustio/crust
 
-## 跨链平台
+## 跨链
 1. polkadot/DOT
     - 跨链平台
     - https://github.com/paritytech/polkadot
