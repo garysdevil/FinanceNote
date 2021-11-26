@@ -105,8 +105,12 @@
     - https://github.com/ethersphere/bee
 
 3. Crust/CRU
-    - - 去中心化存储平台；以太坊ERC20代币
+    - 去中心化存储平台；以太坊ERC20代币
     - https://github.com/crustio/crust
+
+4. arweave/AR
+    - 去中心化存储平台；以太坊ERC20代币
+    - https://github.com/ArweaveTeam/arweave
 
 ## 跨链
 1. polkadot/DOT
@@ -158,6 +162,10 @@
     - https://github.com/input-output-hk/cardano-node 新的
     - 2021年1月 fork 210, contributor 72
 
-16. dfinity/icp
+2. dfinity/icp
     - https://github.com/dfinity/ic
 
+3. findora/FRA
+    - 源码 https://github.com/FindoraNetwork/platform
+    - 官网 https://findora.org/
+    - 中文白皮书 https://findora.org/wp-content/uploads/2020/11/Findora_litepaper_v3_2_abridged_zh.pdf
