@@ -1,5 +1,5 @@
 1. gwei
-1 gwei == 0.000000001 ETH
+    - 1 gwei == 0.000000001 ETH
 
 2. gas
     - 1个gas  == 诺干个gwei
@@ -13,5 +13,4 @@
     - https://www.gasnow.org/ 时时Gas价格
     - https://etherscan.io/ 时时gas价格；区块链游览器（vpn）
     - https://blockchair.com/ethereum/charts/median-gas-price  平均Gas
-    - https://blockchair.com/ethereum/charts/median-gas-price  应用消耗 Gas
     - https://ethgas.watch/ 邮件通知gas费用
