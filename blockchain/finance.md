@@ -60,3 +60,6 @@
     - https://etherscan.io/ 时时gas价格；区块链游览器（vpn）
     - https://blockchair.com/ethereum/charts/median-gas-price  平均Gas
     - https://ethgas.watch/ 邮件通知gas费用
+
+    ## 元宇宙
+    - metaverse: the term first appeared in Neal Stephenson’s 1992 sci-fi novel Snow Crash
