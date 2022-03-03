@@ -1,4 +1,4 @@
-# 基础设施/公链
+# 基础设施 一
 ## 电子现金系统
 ### BTC分叉系列
 1. bitcoin/BTC
@@ -98,7 +98,7 @@
 6. Glimmer/GLMR
     - 智能合约平台
 
-## 去中心化存储
+## 共享存储系统
 1. filecoin/FIL
     - 去中心化存储平台
     - https://github.com/filecoin-project/lotus
@@ -120,12 +120,18 @@
     - 去中心化存储+算力
     - https://github.com/stratosnet/stratos-chain
 
-## 去中心化算力
+## 共享算力系统
 1. - Deepbrain Chain/DBC 
     - 提供分布式共享GPU云计算
 
 
-## 去中心化应用平台
+## 共享CDN系统
+1. meson/
+    - https://github.com/daqnext/meson-terminal
+    - 主网未上线
+
+
+## 应用系统
 1. theta/Theta 
     - https://github.com/thetatoken/theta-protocol-ledger
     - 去中心化的分布式流媒体网络/提供分布式CDN服务
@@ -143,6 +149,7 @@
 2. Cosmos/ATOM
     - https://github.com/cosmos/cosmos-sdk
 
+# 基础设施 二
 ## 网关
 1. pocket/POKT
     - https://github.com/pokt-network/pocket-core
@@ -150,10 +157,13 @@
 2. Biconomy/BICO
     - https://github.com/bcnmy
 
+## 预言机
 ## 公链日志索引库
 1. GRT
 
 2. CQT
+
+
 
 
 # 智能合约
