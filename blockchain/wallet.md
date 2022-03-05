@@ -6,10 +6,10 @@
 3. 保存 助记词 到物理介质上，比如抄在卡纸上。当你忘记交易密码时，助记词可以恢复钱包、重置密码。
 
 ## 钱包
-### Salana
+### Salana公链钱包
 - https://zhuanlan.zhihu.com/p/365417390
 
-### Polkadot
+### Polkadot公链钱包
 - https://github.com/polkadot-js/extension
 - https://github.com/polkadot-js/apps/
 - https://polkadot.js.org/docs/
@@ -20,5 +20,12 @@
 docker run  --name polkadot-ui -p 8080:80 -d  jacogr/polkadot-js-apps
 ```
 
-### metamask钱包
+### metamask钱包/以太坊生态
 - 钱包 https://github.com/MetaMask/metamask-extension
+- 支持以太坊生态的代币
+
+### Keplr钱包/Cosmos生态
+- 支持Cosmos生态的代币
+
+### imToken钱包
+- 支持各种公链的代币
