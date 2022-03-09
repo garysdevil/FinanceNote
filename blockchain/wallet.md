@@ -29,3 +29,8 @@ docker run  --name polkadot-ui -p 8080:80 -d  jacogr/polkadot-js-apps
 
 ### imToken钱包
 - 支持各种公链的代币
+
+
+## 开源的通信协议 WalletConnect
+- WalletConnect在DApp和手机钱包之间建立了通信，所以WalletConnect是一个开源的通信协议。
+- 在DApp上用WalletConnect，需要手机上安装一个集成了WalletConnect的钱包，然后在浏览器上访问DApp时，通过WalletConnect建立手机钱包和DApp的通信。之后DApp的连接钱包、授权、签名交易等等，都会发送到手机端，用户在手机钱包上完成确认。
