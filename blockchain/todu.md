@@ -5,6 +5,8 @@
 - 学习资料
     - https://zhuanlan.zhihu.com/p/44094795
 
+- UBI.city
+- https://chinadefi.com/
 
 crv
 
