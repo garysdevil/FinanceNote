@@ -56,6 +56,15 @@ docker run  --name polkadot-ui -p 8080:80 -d  jacogr/polkadot-js-apps
 - 钱包 https://wallet.filfox.info/
 - 开源 否
 
+## Arweave生态/AR/Google插件钱包
+- 官网 https://www.arconnect.io/
+- Google插件地址 https://chrome.google.com/webstore/detail/arconnect/einnioafmpimabjcddiinlhmijaionap/related
+- 开源 https://github.com/th8ta/arconnect
+
+## Arweave生态/AR/网页钱包
+- 官网 https://arweave.app/
+- 开源 https://github.com/jfbeats/ArweaveWebWallet
+
 ## 公链钱包
 ### imToken钱包
 - 官网 https://token.im/
