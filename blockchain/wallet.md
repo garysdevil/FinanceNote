@@ -9,7 +9,7 @@
 - WalletConnect在DApp和手机钱包之间建立了通信，所以WalletConnect是一个开源的通信协议。
 - 在DApp上用WalletConnect，需要手机上安装一个集成了WalletConnect的钱包，然后在浏览器上访问DApp时，通过WalletConnect建立手机钱包和DApp的通信。之后DApp的连接钱包、授权、签名交易等等，都会发送到手机端，用户在手机钱包上完成确认。
 
-## 特殊钱包
+## 项目专用钱包
 ### Polkadot生态/DOT/Polkadot钱包
 - https://github.com/polkadot-js/extension
 - https://github.com/polkadot-js/apps/
@@ -56,12 +56,12 @@ docker run  --name polkadot-ui -p 8080:80 -d  jacogr/polkadot-js-apps
 - 钱包 https://wallet.filfox.info/
 - 开源 否
 
-## Arweave生态/AR/Google插件钱包
+### Arweave生态/AR/Google插件钱包
 - 官网 https://www.arconnect.io/
 - Google插件地址 https://chrome.google.com/webstore/detail/arconnect/einnioafmpimabjcddiinlhmijaionap/related
 - 开源 https://github.com/th8ta/arconnect
 
-## Arweave生态/AR/网页钱包
+### Arweave生态/AR/网页钱包
 - 官网 https://arweave.app/
 - 开源 https://github.com/jfbeats/ArweaveWebWallet
 
