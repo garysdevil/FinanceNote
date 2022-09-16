@@ -1,10 +1,4 @@
 # 数字货币
-## 平台
-1. 看盘
-    1. 推荐下载OKEX的桌面客户端
-2. 价格信息
-https://coinmarketcap.com
-https://www.feixiaohao.com/
 
 ## 区块链与数字货币
 1. 分叉与否：权利的游戏在矿工与开发者之间上演
@@ -24,3 +18,9 @@ https://www.feixiaohao.com/
 
 ## 合约计划
 
+## 看盘
+1. Coinmarketcap  [coinmarketcap.com](https://coinmarketcap.com)
+
+2. TradingView  [tradingview.com](https://www.tradingview.com/)
+
+3. Aicoin       [www.aicoin.com](https://www.aicoin.com/)     
