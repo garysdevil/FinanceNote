@@ -27,3 +27,6 @@ cvc
 grt
 
 torn
+
+
+- 31个未发币新公链项目整理  https://mirror.xyz/3344521.eth/VJL35c6Vl4suNY3icPt82_LH2UyB8OwOGDXEu9EDWEk
