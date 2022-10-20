@@ -9,6 +9,19 @@
 - WalletConnect在DApp和手机钱包之间建立了通信，所以WalletConnect是一个开源的通信协议。
 - 在DApp上用WalletConnect，需要手机上安装一个集成了WalletConnect的钱包，然后在浏览器上访问DApp时，通过WalletConnect建立手机钱包和DApp的通信。之后DApp的连接钱包、授权、签名交易等等，都会发送到手机端，用户在手机钱包上完成确认。
 
+## 以太坊生态/ETH
+### Metamask钱包 小狐狸
+- 官网 https://metamask.io/
+- 开源 是 https://github.com/MetaMask
+- 支持Google插件 https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
+
+- 币安链
+    - 网络名称 BSC
+    - 代币名称 BNB
+    - RPC地址列表 https://docs.bscscan.com/misc-tools-and-utilities/public-rpc-nodes
+    - 区块链游览器 https://bscscan.com/
+
+
 ## 公链钱包
 ### Polkadot生态/DOT
 - Polkadot钱包
@@ -23,12 +36,6 @@
     - 支持Google插件 https://chrome.google.com/webstore/detail/phantom/bfnaelmomeimhlpmgjnjophhpkkoljpa
     - 支持各种操作系统和各种游览器的插件。
     - Solana生态相关的钱包 https://zhuanlan.zhihu.com/p/365417390
-
-### 以太坊生态/ETH
-- Metamask钱包 小狐狸
-    - 官网 https://metamask.io/
-    - 开源 是 https://github.com/MetaMask
-    - 支持Google插件 https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
 
 ### Cosmos生态/ATOM
 - Keplr钱包
