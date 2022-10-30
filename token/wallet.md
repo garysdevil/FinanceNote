@@ -71,8 +71,9 @@
     - Google插件 https://chrome.google.com/webstore/detail/arconnect/einnioafmpimabjcddiinlhmijaionap/related
     - 开源 https://github.com/th8ta/arconnect
 
-- AR网页钱包
-    - 官网 https://arweave.app/
+- Arweave.app 钱包
+    - AR网页钱包 https://arweave.app/
+    - Google插件 https://chrome.google.com/webstore/detail/arweaveapp/hloekinecmafifaghekdjepphlabepkl/related
     - 开源 https://github.com/jfbeats/ArweaveWebWallet
 
 ### Aptos生态/APT
