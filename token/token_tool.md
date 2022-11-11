@@ -16,3 +16,6 @@
 5. 博客网站
    1. web3博客 https://mirror.xyz/
    2. web3博客搜索 https://mirrorbeats.xyz/
+
+6. 其它
+   1. Chainlist 兼容EVM网络的列表 http://chainlist.tokenpocket.pro/
