@@ -7,8 +7,9 @@
    2. 带空投评级功能  http://99airdrops.com/
    3. 包含多个领域的空投 http://airdropalert.com
 
-3. 批量工具
-   1. 一些批量工具 https://mycointool.com/
+3. 在线工具
+   1. 国内 https://mycointool.com/
+   2. 国际 https://cointool.app/
 
 4. 工作
    1. Telegram频道，包含很多区块链大使、区块链技术工作岗位  https://t.me/DeJob_official
