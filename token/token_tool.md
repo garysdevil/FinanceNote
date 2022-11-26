@@ -20,3 +20,7 @@
 
 6. 其它
    1. Chainlist 兼容EVM网络的列表 http://chainlist.tokenpocket.pro/
+
+
+## 安全
+1. 查看以太坊网络授权的合约地址 https://etherscan.io/tokenapprovalchecker
