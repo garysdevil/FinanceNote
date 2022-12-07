@@ -21,3 +21,8 @@
 
 5. MMO
     - 一般指大型多人在线游戏。 大型多人在线游戏简称MMOG，英文全称Massive（Massively）Multiplayer Online Game，一般指代任何网络游戏的服务器上可以提供大量玩家（1000人左右）同时在线的游戏，即可称之为大型多人在线游戏。
+
+
+## 经济
+1. Consumer Price Index (CPI) 消费者物价指数
+2. Producer Price Indexes (PPI) 生产价格指数
