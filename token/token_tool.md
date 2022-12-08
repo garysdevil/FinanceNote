@@ -24,3 +24,10 @@
 
 ## 安全
 1. 查看以太坊网络授权的合约地址 https://etherscan.io/tokenapprovalchecker
+
+## NFT
+- NFT稀有度和价格排名
+    - https://www.traitsniper.com/
+    - https://opensea.io/rankings
+
+- Dune Analytics 仪表板 https://dune.com/browse/dashboards
