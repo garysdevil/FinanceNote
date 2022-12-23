@@ -1,23 +1,3 @@
-## GameFi项目
-- https://medium.com/general_knowledge/top-10-crypto-gaming-projects-bonus-612249019a5e
-
-- 项目 Star Atlas
-    - ATLAS
-    - POLIS
-
-- 项目 gods
-    - 第三方 https://client.mytbanic.com/news/view?id=2105302
-    - 官网 https://godsunchained.com/
-
-- 项目 Heroes & Empires Token
-    - 代币 HE
-    - 官网 https://heroesempires.com/
-
-- 项目 Thetan Arena
-    - 代币 THG
-    - 官网 https://thetanarena.com/
-
-
 ## 游戏商业模式的演变
 1. 付费游戏系统
     - 商场中的街机、计算机中的CD光盘、下载到机器上。
