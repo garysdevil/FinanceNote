@@ -92,8 +92,8 @@
 
 ### SuiNetwork生态/SUI
 1. Sui Wallet 官方谷歌插件钱包
-   1. 文档 https://docs.sui.io/explore/wallet-browser
-   2. Google插件 https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil
+   1. 文档 https://suiet.app/
+   2. Google插件 https://chrome.google.com/webstore/detail/suiet-sui-wallet/khpkpbbcccdmmclmpigdgddabeilkdpd/related
 
 
 ## 多公链钱包

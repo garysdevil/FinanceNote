@@ -18,8 +18,20 @@
    1. web3博客 https://mirror.xyz/
    2. web3博客搜索 https://mirrorbeats.xyz/
 
-6. 其它
+6. 各个项目的融资信息 https://astrol.pro/
+
+7. 币圈工具面板 DuneAnalytics
+   1. https://dune.com/browse/dashboards
+   2. Twitter   https://twitter.com/DuneAnalytics
+
+8. 各个网络的RPC接口 https://chainlist.org/
+
+8. 其它
    1. Chainlist 兼容EVM网络的列表 http://chainlist.tokenpocket.pro/
+
+## 锁仓量
+- 锁仓量 https://l2beat.com/
+- 锁仓量 https://defillama.com/
 
 
 ## 安全
