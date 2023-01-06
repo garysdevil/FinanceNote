@@ -29,13 +29,16 @@
 8. 其它
    1. Chainlist 兼容EVM网络的列表 http://chainlist.tokenpocket.pro/
 
+9. 地址分析
+   1.  https://bi.social/
+
 ## 锁仓量
 - 锁仓量 https://l2beat.com/
 - 锁仓量 https://defillama.com/
 
 
 ## 安全
-1. 查看以太坊网络授权的合约地址 https://etherscan.io/tokenapprovalchecker
+1. 查看以太坊网络的授权 https://etherscan.io/tokenapprovalchecker
 
 ## NFT
 - NFT稀有度和价格排名
