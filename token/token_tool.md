@@ -44,7 +44,7 @@
 - NFT稀有度和价格排名
     - https://www.traitsniper.com/
     - https://opensea.io/rankings
-
+- https://www.gem.xyz/
 - Dune Analytics 仪表板 https://dune.com/browse/dashboards
 
 ## 交易
@@ -54,3 +54,7 @@
 
 ## 大佬的资料库
 - https://btcdayu.gitbook.io/dayu/
+
+## 投资机构
+1. https://www.cypherhunter.com/
+2. https://www.01caijing.com/financing/investor.htm
