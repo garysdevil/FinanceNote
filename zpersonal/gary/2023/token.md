@@ -1,0 +1,4 @@
+1. SCRT
+    1. 投研 https://www.chaincatcher.com/article/2072174
+    2. 投研 https://foresightnews.pro/article/detail/10818
+    3. SCRT流通值达60-120亿美元后，出货
