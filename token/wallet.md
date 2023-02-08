@@ -30,6 +30,9 @@
     - https://polkadot.js.org/docs/
     - https://www.chainnews.com/articles/616066440423.htm
 
+- SubWallet钱包
+    - https://subwallet.app/
+
 ### Solana生态/SOL
 - Phantom钱包
     - 官网 https://phantom.app/
