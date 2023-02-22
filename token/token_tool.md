@@ -20,19 +20,23 @@
 
 6. 各个项目的融资信息 https://astrol.pro/
 
-7. 币圈工具面板 DuneAnalytics
-   1. https://dune.com/browse/dashboards
-   2. Twitter   https://twitter.com/DuneAnalytics
+9. 各个网络的RPC接口 https://chainlist.org/
 
-8. 各个网络的RPC接口 https://chainlist.org/
-
-8. 其它
+10. 其它
    1. Chainlist 兼容EVM网络的列表 http://chainlist.tokenpocket.pro/
    2. 一系列工具集合 https://dexnav.com/
    3. 投研数据 https://lianyanshe.com/
 
-9. 地址分析
+11. 地址分析
    1.  https://bi.social/
+
+## 自定义可视化数据看板平台
+1. 币圈工具面板 DuneAnalytics
+   1. https://dune.com/browse/dashboards
+   2. Twitter   https://twitter.com/DuneAnalytics
+
+2. 可视化原型 https://observablehq.com/
+
 
 ## 锁仓量
 - 锁仓量 https://l2beat.com/
