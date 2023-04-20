@@ -45,6 +45,7 @@
 
 ## 安全
 1. 查看以太坊网络的授权 https://etherscan.io/tokenapprovalchecker
+2. 查看各个网络的授权 https://revoke.cash/
 
 ## NFT
 - NFT稀有度和价格排名
