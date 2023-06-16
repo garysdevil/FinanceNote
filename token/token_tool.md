@@ -59,7 +59,7 @@
 - 代币解锁时间 https://token.unlocks.app/
 
 
-## 大佬的资料库
+## 资料库
 - https://btcdayu.gitbook.io/dayu/
 
 ## 投资机构
