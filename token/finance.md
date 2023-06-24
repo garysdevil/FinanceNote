@@ -23,3 +23,18 @@
 1. STO（Security Token Offering）
     - 证券型通证发行。
     - ERC1400标准
+
+## 市场
+1. 交易所
+2. DEX
+3. EDX Markets
+    1. 按照SEC和CFTC的意图去打造的交易所。
+    2. 只能给机构使用。
+    3. 只有四种代币的支持，分别是 BTC， ETH， LTC， BCH 
+4. ETF
+5. CME 芝加哥商品交易所（Chicago Mercantile Exchange）
+
+
+## 监管
+1. CFTC 美国大宗商品管理
+2. SEC 美国证券管理
