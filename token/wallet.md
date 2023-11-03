@@ -69,15 +69,15 @@
     - 开源 否
 
 ### Arweave生态/AR
+- Arweave.app 钱包(**没有助记词**)
+    - AR网页钱包 https://arweave.app/
+    - Google插件 https://chrome.google.com/webstore/detail/arweaveapp/hloekinecmafifaghekdjepphlabepkl/related
+    - 开源 https://github.com/jfbeats/ArweaveWebWallet
+
 - ArConnect谷歌插件钱包
     - 官网 https://www.arconnect.io/
     - Google插件 https://chrome.google.com/webstore/detail/arconnect/einnioafmpimabjcddiinlhmijaionap/related
     - 开源 https://github.com/th8ta/arconnect
-
-- Arweave.app 钱包
-    - AR网页钱包 https://arweave.app/
-    - Google插件 https://chrome.google.com/webstore/detail/arweaveapp/hloekinecmafifaghekdjepphlabepkl/related
-    - 开源 https://github.com/jfbeats/ArweaveWebWallet
 
 ### Aptos生态/APT
 1. martian-aptos-wallet Google插件钱包
@@ -98,6 +98,13 @@
    1. 文档 https://suiet.app/
    2. Google插件 https://chrome.google.com/webstore/detail/suiet-sui-wallet/khpkpbbcccdmmclmpigdgddabeilkdpd/related
 
+### Fuel生态
+1. Fuel官方谷歌插件钱包 Fuel Wallet 
+    - https://wallet.fuel.network/docs/install/
+
+2. Fuel生态谷歌插件钱包 Fuelet Wallet | Fuel 
+    - https://fuelet.app/
+    - https://chrome.google.com/webstore/detail/fuelet-wallet-fuel/bifidjkcdpgfnlbcjpdkdcnbiooooblg
 
 ## 多公链钱包
 ### imToken钱包
