@@ -9,6 +9,26 @@
 - WalletConnect在DApp和手机钱包之间建立了通信，所以WalletConnect是一个开源的通信协议。
 - 在DApp上用WalletConnect，需要手机上安装一个集成了WalletConnect的钱包，然后在浏览器上访问DApp时，通过WalletConnect建立手机钱包和DApp的通信。之后DApp的连接钱包、授权、签名交易等等，都会发送到手机端，用户在手机钱包上完成确认。
 
+## 比特币生态/BTC
+### Unisat
+- https://unisat.io/download
+- 支持 Ordinals 协议。
+
+### ordinalswallet
+- https://ordinalswallet.com/
+- 支持 Ordinals 协议官方网页版钱包。
+
+### Atom钱包
+- 支持 Atomcial 协议。
+- https://github.com/atomicalswallet/atomicals-wallet-extension
+- https://atomicalswallet.com/
+
+### Alby钱包
+- 支持 Nostr 全球社交媒体协议。
+
+### BitMask钱包
+- RGB 生态的第一个 nft 钱包。
+
 ## 以太坊生态/ETH
 ### Metamask钱包 小狐狸
 - 官网 https://metamask.io/
