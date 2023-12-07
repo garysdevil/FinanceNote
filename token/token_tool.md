@@ -30,6 +30,9 @@
 11. 地址分析
    1.  https://bi.social/
 
+12. 比特币恐惧贪婪指数
+   1.  https://www.lookintobitcoin.com/charts/bitcoin-fear-and-greed-index/
+
 ## 自定义可视化数据看板平台
 1. 币圈工具面板 DuneAnalytics
    1. https://dune.com/browse/dashboards
