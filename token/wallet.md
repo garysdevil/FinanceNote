@@ -32,15 +32,14 @@
 ## 以太坊生态/ETH
 ### Metamask钱包 小狐狸
 - 官网 https://metamask.io/
-- 开源 是 https://github.com/MetaMask
+- 开源 https://github.com/MetaMask UI界面代码不开源
 - 支持Google插件 https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
 
-- 币安链
-    - 网络名称 BSC
-    - 代币名称 BNB
-    - RPC地址列表 https://docs.bscscan.com/misc-tools-and-utilities/public-rpc-nodes
-    - 区块链游览器 https://bscscan.com/
-
+- MetaMask Snaps
+    - 2022年4月15日，推出可安全扩展MetaMask功能的系统“MetaMask Snap”。
+    - https://github.com/MetaMask/SIPs
+    - 是一个允许任何人安全地扩展MetaMask功能的系统。
+    - 它于独立的环境中执行，可使用户自定义钱包体验。
 
 ## 公链钱包
 ### Polkadot生态/DOT
