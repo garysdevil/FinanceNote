@@ -1,11 +1,16 @@
-1. Atom协议mint live看板：https://bitatom.io/?tab=live
-2. CBRC20协议官网全介绍：https://cybord.org
-3. evm输入文本直接铭刻：https://ethscriber.xyz
-4. 多链铭文实时铭刻监控：https://whatscription.com
-5. 以太铭文live mint看板：https://data.nftsniper.club
+## 多链
+1. evm输入文本直接铭刻：https://ethscriber.xyz
+2. 多链铭文实时铭刻监控：https://whatscription.com
 
+## BTC网络Atom协议
+- mint看板：https://bitatom.io/?tab=live
+
+## ETH网络
+- mint看板 https://data.nftsniper.club
 
 ## AVAE网络
+- mint看板 https://avascriptions.com/tokens
+
 1. wolf
     1. 看盘 https://dexscreener.com/avalanche/0x08db8eafeea89476bfc51b07613f430748ff350a
     2. 交易 https://traderjoexyz.com/avalanche/trade?outputCurrency=0x4f94b8aef08c92fefe416af073f1df1e284438ec
