@@ -4,7 +4,7 @@
 3. 寻找高APY池以及实时管理 DeFi 流动性挖矿与收益耕作仓位的工具 https://app.apy.vision/
 4. 链上数据分析 https://dex.guru/
 5. 各个网络的RPC接口 https://chainlist.org/
-6. dApp https://dappradar.com/
+6. dApp分析 https://dappradar.com/
 
 ## web3博客网站
 1. mirror https://mirror.xyz/
@@ -27,8 +27,13 @@
    3. 国内 https://dexnav.com/
    4. 国内 https://mct.xyz/
 
-## 土狗
-1. 土狗分析以及交易 https://www.dextools.io/app/en
+## 交易
+1. 聚合器/土狗分析
+   1. https://www.dextools.io/app/en
+   2. https://birdeye.so/
+2. DEX
+   1. https://app.uniswap.org
+   2. https://jup.ag/  Solana生态
 
 ## 自定义可视化数据看板平台
 1. DuneAnalytics
