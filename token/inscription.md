@@ -25,3 +25,8 @@
     1. https://mora.app/
 2. zkordi
     1. mint https://yqkq3-tyaaa-aaaam-ab2xa-cai.icp0.io/
+
+## 闪电网络
+1. noss
+    1. https://noscription.org/
+    2. https://api-worker.noscription.org/indexer/balance?npub=你的npub地址
