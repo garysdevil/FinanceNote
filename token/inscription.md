@@ -31,3 +31,15 @@
     1. https://mora.app/
 2. zkordi
     1. mint https://yqkq3-tyaaa-aaaam-ab2xa-cai.icp0.io/
+
+## Solana
+1. 基础设施 SoBit
+    1. 代币 SOBB  KDriegomzHbJDmGkVWFuXrZWfpiruauhMSTg7N6WZvD
+    2. 官网 https://sobitbridge.io/
+    3. 代币详情 https://www.coincarp.com/zh/currencies/sobit/project-info/
+    4. 代币总量 1,000,000,000
+
+## 闪电网络
+1. noss
+    1. https://noscription.org/
+    2. https://api-worker.noscription.org/indexer/balance?npub=你的npub地址
