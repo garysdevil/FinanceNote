@@ -8,6 +8,12 @@
 ## ETH网络
 - mint看板 https://data.nftsniper.club
 
+1. 基础设施 Multibit
+    1. 代币 MUBI https://www.coincarp.com/zh/currencies/multibit/
+    2. 官网 https://multibit.exchange/
+    3. 代币详情 https://www.coincarp.com/zh/currencies/multibit/
+    4. 代币总量 1,000,000,000
+
 ## AVAE网络
 - mint看板 https://avascriptions.com/tokens
 
@@ -25,3 +31,11 @@
     1. https://mora.app/
 2. zkordi
     1. mint https://yqkq3-tyaaa-aaaam-ab2xa-cai.icp0.io/
+
+
+## Solana
+1. 基础设施 SoBit
+    1. 代币 SOBB  KDriegomzHbJDmGkVWFuXrZWfpiruauhMSTg7N6WZvD
+    2. 官网 https://sobitbridge.io/
+    3. 代币详情 https://www.coincarp.com/zh/currencies/sobit/project-info/
+    4. 代币总量 1,000,000,000
