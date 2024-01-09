@@ -70,6 +70,7 @@
 1. https://www.cypherhunter.com/
 2. https://www.01caijing.com/financing/investor.htm
 3. 项目私募公募 https://cryptorank.io/upcoming-ico
+4. 项目融资信息 https://crypto-fundraising.info/
 
 
 ## 链上地址资产分析
