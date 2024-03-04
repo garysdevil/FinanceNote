@@ -22,6 +22,8 @@
 5. MMO
     - 一般指大型多人在线游戏。 大型多人在线游戏简称MMOG，英文全称Massive（Massively）Multiplayer Online Game，一般指代任何网络游戏的服务器上可以提供大量玩家（1000人左右）同时在线的游戏，即可称之为大型多人在线游戏。
 
+6. FDV 完全稀释估值
+    - Fully Diluted Valuation
 
 ## 经济
 1. Producer Price Indexes (PPI) 生产价格指数

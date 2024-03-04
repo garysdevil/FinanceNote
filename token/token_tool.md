@@ -7,8 +7,10 @@
 6. dApp分析 https://dappradar.com/
 
 ## web3博客网站
-1. mirror https://mirror.xyz/
-2. mirror站内搜索 https://mirrorbeats.xyz/
+1. https://layer2.news/
+2. mirror https://mirror.xyz/
+   1. mirror站内中文搜索 https://mirrorbeats.xyz/
+   2. mirror站内英文搜索 https://askmirror.xyz
 
 ## 市场监控
 1. 稳定币监控  https://stablecoins.wtf/
