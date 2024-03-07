@@ -27,7 +27,10 @@
 1. panda
     1. https://pandacoin.sc/#/airdrop
     2. 0x61a9cc561b6c1f9c31bcdeb447afecf25f33bbf9
-    3. 领取/交易 成功与失败 都要扣gas 5U左右
+    3. 持有Scroll NFT领取panda MeMe代币
+    4. 领取/交易 成功与失败 都要扣gas 5U左右
+    5. garysdevil, garyadam
+
 
 ## Cosmos网络
 1. HAVA
