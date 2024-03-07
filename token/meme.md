@@ -22,3 +22,14 @@
 1. pointless
     1. 0x9B8cc6320F22325759B7D2CA5CD27347bB4eCD86
     2. Lens 用户空投，每个地址收到 1~100u不等。
+
+## Scroll网络
+1. panda
+    1. https://pandacoin.sc/#/airdrop
+    2. 0x61a9cc561b6c1f9c31bcdeb447afecf25f33bbf9
+    3. 领取/交易 成功与失败 都要扣gas 5U左右
+
+## Cosmos网络
+1. HAVA
+    1. https://havacoin.xyz/eligibility-check
+    2. gary, adam, 996miner, jack, 
