@@ -26,10 +26,10 @@
 ## Scroll网络
 1. panda
     1. https://pandacoin.sc/#/airdrop
-    2. 0x61a9cc561b6c1f9c31bcdeb447afecf25f33bbf9
+    2. 代币地址 0x61a9cc561b6c1f9c31bcdeb447afecf25f33bbf9
     3. 持有Scroll NFT领取panda MeMe代币
-    4. 领取/交易 成功与失败 都要扣gas 5U左右
-    5. garysdevil, garyadam
+        1. garysdevil, garyadam
+        2. adam 卖出获取 60 U
 
 
 ## Cosmos网络
