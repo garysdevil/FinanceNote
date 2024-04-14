@@ -40,9 +40,11 @@
 1. 聚合器/土狗分析
    1. https://www.dextools.io/app/en
    2. https://birdeye.so/
+   3. https://dexscreener.com/
 2. DEX
    1. https://app.uniswap.org
    2. https://jup.ag/  Solana生态
+   3. https://traderjoexyz.com/avalanche/trade AVAX生态
 3. 质押交易
    1. https://app.whales.market/
 
