@@ -79,8 +79,17 @@
 4. 项目私募公募 https://cryptorank.io/upcoming-ico
 5. 项目融资信息 https://crypto-fundraising.info/
 6. 项目分析 veDAO发掘潜力项目的投融资社区 https://app.trendx.tech/projects  http://www.vedao.com/
+7. 项目融资查询 
+   1. https://chainbroker.io
+   2. https://crunchbase.com
+   3. https://crypto-fundraising.info/deal-flow/
+   4. https://cryptorank.io/funds
+   5. https://cypherhunter.com/en/
+   6. https://messari.io/fundraising-data
+   7. https://rootdata.com
 
 ## 链上地址资产分析
 1. https://debank.com/
 2. https://zapper.xyz/
 3. https://bi.social/
+
