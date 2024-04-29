@@ -6,7 +6,7 @@
 5. 各个网络的RPC接口 https://chainlist.org/
 6. dApp分析 https://dappradar.com/
 
-## web3博客网站
+## 博客网站
 1. https://layer2.news/
 2. mirror https://mirror.xyz/
    1. mirror站内中文搜索 https://mirrorbeats.xyz/
