@@ -86,7 +86,6 @@
    4. https://cryptorank.io/funds
    5. https://cypherhunter.com/en/
    6. https://messari.io/fundraising-data
-   7. https://rootdata.com
 
 ## 链上地址资产分析
 1. https://debank.com/
