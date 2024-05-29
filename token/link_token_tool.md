@@ -71,6 +71,7 @@
 
 ## 学习资料
 1. https://btcdayu.gitbook.io/dayu/
+2. https://aiyanxishe.feishu.cn/wiki/MQiZw5vu1iWrUzkF5g6cKr0vnwg
 
 ## 机构/融资/项目
 1. https://www.cypherhunter.com/
