@@ -55,3 +55,13 @@
 
 2. TOKEN
     1. 代币合约 0x4507cEf57C46789eF8d1a19EA45f4216bae2B528
+
+## Ton/TON网络
+1. DOGS 经济模型
+    1. 总量 550 billions
+    2. 代币分配
+        1. 81.5% 直接分发给社区
+            1. 73% Telegram OGs, who earned DOGS in the app
+            2. 8.5% The rest goes to rewards for traders, sticker creators, and future community members
+        2. 10% is allocated for the team and future development, with the major part in a 12-month vesting period
+        3. 8.5% is reserved for liquidity on CEXs and DEXs, and listing-related events
