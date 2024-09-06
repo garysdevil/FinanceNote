@@ -30,6 +30,8 @@
 1. 正在进行和即将结束的空投项目 https://airdrops.io/
 2. 带空投评级功能  http://99airdrops.com/
 3. 包含多个领域的空投 http://airdropalert.com
+4. 外网空投宝藏网站 https://cryptorank.io/drophunting
+5. https://airdroptracker.notion.site/0180555ffe5249009c4096f97b2fb046?v=4bafb955f76c403f84564d383965104d
 
 ## 在线工具集合
    1. 国际 https://cointool.app/
