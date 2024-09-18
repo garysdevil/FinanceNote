@@ -1,4 +1,3 @@
-# 空投
 ## Matic网络
 1. pointless
     1. 代币合约 0x9B8cc6320F22325759B7D2CA5CD27347bB4eCD86
@@ -77,3 +76,9 @@
             2. 8.5% The rest goes to rewards for traders, sticker creators, and future community members
         2. 10% is allocated for the team and future development, with the major part in a 12-month vesting period
         3. 8.5% is reserved for liquidity on CEXs and DEXs, and listing-related events
+
+
+## 其它
+1. Neiro
+    1. Neiro是逝世的狗狗币原型柴犬网红Kabosu主人近期收养的救援犬的名字，一经公开后就这个名字就成了MEME的新宠，人们试图复刻狗狗币的奇迹，在以太坊、Solana等公链上同一时间有多个同名代币被发行。
+    2. 以太坊上的NEIRO。8月1日，Bitget上线NEIRO，NEIRO似乎已经成为新的“狗王”，市值高达1.6亿美元。但这个高市值的背后，却是充满套路的助推和7成以上的老鼠仓的危机。

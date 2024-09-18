@@ -9,7 +9,8 @@
 ## 博客网站
 1. https://layer2.news/
 2. https://www.aicoin.com/news/all
-3. mirror https://mirror.xyz/
+3. https://followin.io/zh-Hans
+4. mirror https://mirror.xyz/
    1. mirror站内中文搜索 https://www.mirrorbeats.com/
    2. mirror站内英文搜索 https://askmirror.xyz
 
