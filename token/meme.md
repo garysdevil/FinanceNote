@@ -82,3 +82,16 @@
 1. Neiro
     1. Neiro是逝世的狗狗币原型柴犬网红Kabosu主人近期收养的救援犬的名字，一经公开后就这个名字就成了MEME的新宠，人们试图复刻狗狗币的奇迹，在以太坊、Solana等公链上同一时间有多个同名代币被发行。
     2. 以太坊上的NEIRO。8月1日，Bitget上线NEIRO，NEIRO似乎已经成为新的“狗王”，市值高达1.6亿美元。但这个高市值的背后，却是充满套路的助推和7成以上的老鼠仓的危机。
+
+
+## Sui网络
+1. MOODENGS
+    1. 0x74212285f08ef6fbcf2372c6cd75e1d9512693bcceda12f2a5a1e435abafbb13::moodengs::MOODENGS
+2. AAA
+    1. 0xd976fda9a9786cda1a36dee360013d775a5e5f206f8e20f84fad3385e99eeb2d::aaa::AAA
+3. UniDog
+    1. 0x4ac0309f1e26bb6552300002c34b811bdf2388c94a3b032ac9bc279a045a7207
+
+## Apt网络
+1. GUI
+    1. 0xe4ccb6d39136469f376242c31b34d10515c8eaaa38092f804db8e08a8f53c5b2::assets_v1::EchoCoin002
