@@ -85,6 +85,18 @@
 
 
 ## Sui网络
+### link
+1. pump平台
+    1. bluemove的官方pump平台，很多新开的项目都在上面发售 
+    2. https://movepump.com/
+2. swap
+    1.  https://dex.bluemove.net 
+    2.  https://hop.ag/swap/SUI-USDC
+3. 看线工具 http://dexscreener.com/sui
+4. bot https://t.me/suibainu_bot?start=ref_864463485
+5. 代币安全性验证 https://app.insidex.trade
+6. 区块链浏览器 suiscan.xyz/mainnet/coin
+### token
 1. MOODENGS
     1. 0x74212285f08ef6fbcf2372c6cd75e1d9512693bcceda12f2a5a1e435abafbb13::moodengs::MOODENGS
 2. AAA
