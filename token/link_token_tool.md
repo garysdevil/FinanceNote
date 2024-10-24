@@ -50,7 +50,7 @@
    1. https://app.uniswap.org
    2. https://jup.ag/  Solana生态
    3. https://traderjoexyz.com/avalanche/trade AVAX生态
-3. 质押交易
+3. 场外质押交易
    1. https://app.whales.market/
 
 ## 自定义可视化数据看板平台
