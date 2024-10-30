@@ -98,3 +98,9 @@
 2. https://zapper.xyz/
 3. https://bi.social/
 
+
+## 舆情网站
+1. https://www.sotwe.com/ 广告多
+2. https://www.0xscope.com/
+3. https://followin.io/zh-Hans/explore 可用
+4. https://app.trendx.tech/hot/topic 可用
