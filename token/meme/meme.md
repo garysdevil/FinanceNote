@@ -5,6 +5,8 @@
 ## zkSyncEra网络
 1. zpet 
     1. 代币合约 0xf1eac3f159d41bafdc08767afb302a5294c1bcc4
+2. Cheems
+    1. 0x9db6bf8b0215a02bea9bef28a92d829fd008d480
 
 ## Scroll网络
 1. panda
