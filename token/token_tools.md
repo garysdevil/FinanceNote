@@ -44,8 +44,9 @@
 ## 交易
 1. 聚合器/土狗分析
    1. https://www.dextools.io/app/en
-   2. https://birdeye.so/
-   3. https://dexscreener.com/
+   2. https://dexscreener.com/
+   3. https://gmgn.ai/
+   4. https://birdeye.so/
 2. DEX
    1. https://app.uniswap.org
    2. https://jup.ag/  Solana生态
