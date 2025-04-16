@@ -8,6 +8,20 @@
 ## 开源的区块链钱包通信协议 WalletConnect
 - WalletConnect在DApp和手机钱包之间建立了通信，所以WalletConnect是一个开源的通信协议。
 - 在DApp上用WalletConnect，需要手机上安装一个集成了WalletConnect的钱包，然后在浏览器上访问DApp时，通过WalletConnect建立手机钱包和DApp的通信。之后DApp的连接钱包、授权、签名交易等等，都会发送到手机端，用户在手机钱包上完成确认。
+- 开发商 Reown
+- 融资 (融资总额3800万美元)
+    1. 2025年1月15日 完成1300万美元B轮融资，由Union Square Ventures（USV）和1kx领投，其他投资方包括SC Ventures、SBI Holdings、Shopify Ventures、Kraken Ventures等。迄今为止，Reown累计融资总额已达3800万美元。
+1. 经济模型： 10亿枚
+    1. 27%归WCT基金会
+    2. 18.5%用于空投活动
+    3. 18.5%分配给团队
+    4. 17.5%用于奖励
+    5. 11.5%分配给投资者
+    6. 7%分配给核心开发者。开发者、团队和投资者的代币有四年解锁期，且设一年锁定期，
+
+- 价格预测，基于私募价格`0.38/(10*0.115)` 0.33 美元/枚
+    - 估值价格 `0.33*5` = 1.65 美元/枚
+    - 理想抛售价格 `1.65*20` = 33 美元/枚
 
 ## 比特币生态/BTC
 ### Unisat
