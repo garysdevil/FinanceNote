@@ -59,7 +59,10 @@
    1. https://dune.com/browse/dashboards
    2. Twitter   https://twitter.com/DuneAnalytics
 
-2. 可视化原型 https://observablehq.com/
+2. flipsidecrypto
+   1. https://flipsidecrypto.xyz/insights/dashboards
+
+3. 可视化原型 https://observablehq.com/
 
 ## 锁仓量
 - 查询Layer2网络锁仓量排行榜 https://l2beat.com/
