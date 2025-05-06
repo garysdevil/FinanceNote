@@ -5,10 +5,14 @@ created_date: 2024-01-01
 [TOC]
 
 ## a16z
+
 - 风险投资公司
-    - 安德森·霍洛维茨（Andreessen Horowitz，又称a16z)
+
+  - 安德森·霍洛维茨（Andreessen Horowitz，又称a16z)
+
 - 创始人
-    - 马克*安德森(Marc Andreessen)
-    - 本*霍洛维茨(Ben Horowitz)
+
+  - 马克\*安德森(Marc Andreessen)
+  - 本\*霍洛维茨(Ben Horowitz)
 
 - 2011年，马克·安德森在华尔街日报上发表了著名的文章《软件正在吞噬整个世界》，称“当今的软件应用无所不在并且正在吞噬整个世界，这是一个伟大的机会，我明白该把自己的钱投向哪里”。
