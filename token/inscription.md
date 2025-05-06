@@ -1,3 +1,9 @@
+---
+created_date: 2023-12-15
+---
+
+[TOC]
+
 ## 多链
 1. evm输入文本直接铭刻：https://ethscriber.xyz
 2. 多链铭文实时铭刻监控：https://whatscription.com

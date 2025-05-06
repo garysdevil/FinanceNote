@@ -1,3 +1,9 @@
+---
+created_date: 2022-10-20
+---
+
+[TOC]
+
 ## 比特币发展大事记
 1. 2008年10月31日 白皮书  
     - 一个网名为 Satoshi Nakamoto （中文译名中本聪）的网友向“加密货币邮件组”成员发送比特币白皮书，“Bitcoin: APeer-to-Peer Electronic Cash System”（比特币：一种点对点电子现金系统），正式提出了比特币的概念。

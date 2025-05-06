@@ -1,3 +1,9 @@
+---
+created_date: 2021-04-07
+---
+
+[TOC]
+
 ## 购房流程
 ### 中国购置法拍房
 - 参考 https://www.zhihu.com/question/281784429/answer/949194794

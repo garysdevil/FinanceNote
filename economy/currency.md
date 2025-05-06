@@ -1,3 +1,9 @@
+---
+created_date: 2024-01-01
+---
+
+[TOC]
+
 ## 一个国家的货币供给分成了三类
 - M0 M1 M2
 - 各个国家M0数据 https://zh.tradingeconomics.com/country-list/money-supply-m0

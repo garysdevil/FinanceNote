@@ -1,3 +1,9 @@
+---
+created_date: 2022-10-20
+---
+
+[TOC]
+
 1. a16z(Andreessen-Horowitz)
     - 机构介绍：a16z是整个互联网投资界最为耀眼的明星之一，曾先后投资了 Facebook、Twitter等知名项目。现已投资多个区块链明星项目，成为了加密货币投资的风向标。Coinbase上市后，a16z以14.8%的股份成为其第二大股东，成为了最大的外部赢家。 另外，a16z还投资了Uniswap、MakerDAO、Compound、Dapper Labs、Arweave、Optimism、Solana等，这些几乎都成为了头部区块链项目。如今的a16z ，加密基金规模超过30亿美金。俨然是加密世界的资本灯塔，关注度高，号召力极强。
 

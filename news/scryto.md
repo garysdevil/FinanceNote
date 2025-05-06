@@ -1,3 +1,9 @@
+---
+created_date: 2022-12-07
+---
+
+[TOC]
+
 ## 总结
 - https://twitter.com/DefiIgnas/status/1599671369658118144
 - 融资前5名却无建树甚至破产的项目

@@ -1,3 +1,9 @@
+---
+created_date: 2024-11-22
+---
+
+[TOC]
+
 ## 网站
 1. Telegram频道，包含很多区块链大使、区块链技术工作岗位  https://t.me/DeJob_official
 2. 对比交易所提币手续费，降低充值提币成本 https://chaineye.tools/cexFee
