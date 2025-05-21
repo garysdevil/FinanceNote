@@ -56,6 +56,10 @@ created_date: 2022-10-20
 
 - RGB 生态的第一个 nft 钱包。
 
+### pay-with-bitpay 
+- 比特币谷歌插件钱包（支持测试网）
+- https://chrome.google.com/webstore/detail/pay-with-bitpay/jkjgekcefbkpogohigkgooodolhdgcda/related
+
 ## 以太坊生态/ETH
 
 ### Metamask钱包 小狐狸
