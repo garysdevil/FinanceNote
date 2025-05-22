@@ -14,7 +14,10 @@ created_date: 2022-02-17
 
    - PE投资即Private Equity，简称PE，中文为私募股权投资。
 
-3. AMM 自动做市模型
+
+3. AMM 自动做市模式 Automated market maker
+4. DMM 动态做市商模式
+5. PMM 主动做市商模式 Proactive Market Maker
 
 ## 区块链
 
