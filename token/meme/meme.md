@@ -114,10 +114,9 @@ created_date: 2024-10-14
 2. swap
    1. https://dex.bluemove.net
    2. https://hop.ag/swap/SUI-USDC
-3. 看线工具 http://dexscreener.com/sui
-4. bot https://t.me/suibainu_bot?start=ref_864463485
-5. 代币安全性验证 https://app.insidex.trade
-6. 区块链浏览器 suiscan.xyz/mainnet/coin
+3. sui网络bot https://t.me/suibainu_bot?start=ref_864463485
+4. sui网络代币安全性验证 https://app.insidex.trade
+5. sui网络区块链浏览器 suiscan.xyz/mainnet/coin
 
 ### token
 

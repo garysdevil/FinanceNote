@@ -125,6 +125,7 @@ created_date: 2024-11-22
 2. https://zapper.xyz/
 3. https://bi.social/
 4. https://app.step.finance/ Solana网络
+5. https://glassnode.com/  区块链数据和情报平台
 
 ## 舆情网站
 
@@ -132,3 +133,8 @@ created_date: 2024-11-22
 2. https://www.0xscope.com/
 3. https://followin.io/zh-Hans/explore 可用
 4. https://app.trendx.tech/hot/topic 可用
+5. StanChart (渣打银行) https://research.sc.com/
+6. Citi (花旗集团) https://www.citigroup.com/global/insights/global-economic-outlook-strategy
+7. 
+
+

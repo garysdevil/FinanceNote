@@ -39,3 +39,11 @@ created_date: 2022-10-20
 2. TradingView [tradingview.com](https://www.tradingview.com/)
 
 3. Aicoin [www.aicoin.com](https://www.aicoin.com/)
+
+## 数据信息
+1. 国家信息公布 https://cn.investing.com/economic-calendar/
+2. 代币信息 
+    1. http://dexscreener.com
+    2. https://dex.coinmarketcap.com/token/bsc/代币地址/
+    3. https://coinmarketcap.com/currencies/multiple-network/
+    4. https://app.nansen.ai/

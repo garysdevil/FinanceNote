@@ -120,3 +120,17 @@ created_date: 2022-02-17
    - 大资金
 4. 散户
    - 小资金，个体的单独操作对市场不会产生任何影响
+
+## 虚拟货币
+1. MVRV比率（Market Value to Realized Value Ratio）
+   1. MVRV 是比特币（BTC）链上分析指标MVRV比率（Market Value to Realized Value Ratio）的特定阈值，在加密货币市场中用于评估资产估值状态。当MVRV比率低于2.5时，通常被视为“未过热”（not overheated），意味着比特币价格相对于其链上实现价值（Realized Value）处于相对合理的区间，市场尚未出现过度投机或泡沫迹象。
+   2. 计算公式：MVRV = MV / RV
+   3. MV（Market Value，市场价值）：比特币当前价格 × 流通总量（市值）。
+   4. RV（Realized Value，实现价值）：链上所有比特币最后一次交易时的价值总和（反映持有者平均成本基础）。
+   5. 数据 https://cryptoquant.com/asset/btc/chart/market-indicator/mvrv-ratio?window=DAY&sma=0&ema=0&priceScale=log&metricScale=log&chartStyle=line
+
+2. 期货OI（Open Interest，未平仓合约）
+   1. OI表示市场上所有未平仓的期货合约数量（以合约为单位），不包括已平仓（通过对冲、交割或到期）的合约。
+   2. 数据 
+      1. https://www.cmegroup.com/tools-information/quikstrike/commitment-of-traders.html
+      2. https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm
